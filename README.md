@@ -66,7 +66,7 @@ You will need to use the `fetch()` function in JavaScript to load the weather da
 
 ### Present the data on your page
 
-Your task is to present the data: the city name, the temperature, and what type of weather it is (the "description" in the JSON).
+Your task is to present the data: the city name, the temperature (rounded to 1 decimal place), and what type of weather it is (the "description" in the JSON).
 
 Once you get the data onto your page, style your page however you'd like to with CSS, OR add more data to make it even more useful! See suggestions in the stretch goals section.
 
@@ -79,22 +79,23 @@ To complete this assignment, you need to fork this repository, add your code in 
 * [MDN Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 * [MDN Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [Open Weather API Documentation](https://openweathermap.org/current)
+* [.toFixed()](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
 ---
 
 ### :sos: How to get help
 Learning how to think as a web developer is learning how to be an expert in problem solving. So whenever you get stuck start with step 1 and continue until problem solved.
 
-1. Google! In English, type in the error message if there is one, search within the language your're using (ie CSS, JavaScript etc).
+1. Google! In English, type in the error message if there is one, search within the language you're using (ie CSS, JavaScript etc).
 2. Ask your code buddies in your Company.
 3. Ask your fellow students in Slack.
-4. Ask Damien. Please note: we are part of a sharing community - share the answer with your fellows.
+4. Ask Damien or David. Please note: we are part of a sharing community - share the answer with your fellows.
 
 ---
 
 ### :boom: Success!
 
-After completing this assignment you should know whan an API is, and what you could use one for. You should be comfortable using simple APIs to fetch data onto your page, and you should know how to fetch the values you want from a blob of JSON.
+After completing this assignment you should know when an API is, and what you could use one for. You should be comfortable using simple APIs to fetch data onto your page, and you should know how to fetch the values you want from a blob of JSON.
 
 ---
 
